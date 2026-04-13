@@ -38,6 +38,6 @@ I build personal systems for humans and AI:
 
 ## open drawers
 
-- **website**: [justforai.club](https://justforai.club)
+- **website**: [justforai.club](http://justforai.club)
 - **github**: [@heyallencao](https://github.com/heyallencao)
 
